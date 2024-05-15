@@ -11,6 +11,7 @@ namespace ConsoleAppColaborativa
             Console.WriteLine("Hola, DylanGranizo");
             Console.WriteLine("Hola, Andreina Pallo");
             Console.WriteLine("Hola, Erick Mideros");
+            Console.WriteLine("¡Hello World! I'm Francisco Andrés Sánchez Guerrero");
             Console.WriteLine("Hola, Soy David Valencia");
             Console.WriteLine("Hola, soy Gabriel Vasconez");
             Console.WriteLine("Hello, Jonathan Angulo");
@@ -21,6 +22,7 @@ namespace ConsoleAppColaborativa
             Console.WriteLine("Hi, i'm Daniel Mera!!!");
             Console.WriteLine("Hey, i'm Martin Posso");
             Console.WriteLine("Hola, soy Gianfranco Pupiales");
+            Console.WriteLine("Hola, soy Santos Villarreal");
             Console.WriteLine("Hola, soy Franchesco Gallegos");
             Console.WriteLine("Hola, Carlos Villarreal");
             Console.WriteLine("Holi, soy Doménica Camila Sánchez :3");
